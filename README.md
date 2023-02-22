@@ -1,2 +1,2 @@
-# vinaria-core
- Vinaria Core Mod Repository
+# Vinaria Core - Mods
+Copyright © 2023 Vakyum Studio - Tous droits réservés.
